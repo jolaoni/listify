@@ -1,0 +1,20 @@
+1. WebAPIs, MVC applications, Azure Functions
+2. Very senior. I have experience across all Microsoft stack pretty much
+3. Visual Studio, VS Code
+4. Countless times
+5. Yes. Helpful to keep code clean and loose coupled. Worked good for me
+6. Yes, I'm using it. It was very helpful it earlier versions on VS, now VS can do pretty much the same without ReSharper, but I still like code formatting suggestions from resharper more
+7. I prefer working directly. However, having a go-between tends to allow devs to get more work done.
+8. Yes. Good for keeping enviromnent-specific info for publishing
+9. For keeping versions (environments) of my application
+10. CI is used to make sure that code base is always in a working state (gated check-ins) and could be build on a given environment, which reflects the server
+11. Agnostic, I'm always open to try something new
+12. Window (over) functions, partitions, common table expressions
+13. Type-script makes JS coding more strict, makes it more stardartized, applies some restrictions and introduces more strict typization. Typescript build output is javascript.
+14. Worked with MongoDB. NoSQL databases offer better read performance in cost of the eventual consistency.
+15. Information, encripted with public key can be decrypted only with private, so anyone can encrypt info with public key, but only private key owner can decrypt it.
+16. Security by Design. /Password Management. /Access Control. /Error Handling and Logging. /System Configuration. /Threat Modeling. /Cryptographic Practices. / Input Validation and Output Encoding.
+17. Yes
+18. Representational State Transfer - architecture of web services. In two words - no state is kept on server between calls, calls are atomic, GET only read info without changes, HTTP based
+19. Bring it
+20. Easier to say which I haven't used - Spark Hadoop Pandas R Mac Jasmine Go  
